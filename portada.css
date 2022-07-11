@@ -1,0 +1,18 @@
+/*TIPO DE LETRA */
+
+body {
+  font-family: Courier New;
+}
+.container {
+  background: blue;
+  text-align: center;
+  margin: 0px;
+  border: 1px solid red;
+  line-height: 100px;
+}
+
+.boton {
+  background: red;
+  width: 200px;
+  line-height: 50px;
+}
